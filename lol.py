@@ -10,3 +10,6 @@ for i in l1:
     d[i]=d[i]+1
 
 print(d)
+
+# ;lol
+# mjcdiuc
